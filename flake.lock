@@ -3,11 +3,11 @@
     "doom-emacs": {
       "flake": false,
       "locked": {
-        "lastModified": 1656519163,
-        "narHash": "sha256-iNg3DnQJB6iIWLBsFGcloFHwwQUgrJeIQeNJHD7nwIo=",
+        "lastModified": 1657023376,
+        "narHash": "sha256-huKtA8twjW3GkfA6NRvCjWMWUEN58ju4sL89rRQxOes=",
         "owner": "doomemacs",
         "repo": "doomemacs",
-        "rev": "c2f8476c8641fcc9a1371d873ed3b5924952a059",
+        "rev": "9ec60d9ab9eb5d9b098e2452395156b622cce624",
         "type": "github"
       },
       "original": {
